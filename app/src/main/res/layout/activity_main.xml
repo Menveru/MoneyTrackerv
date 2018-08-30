@@ -7,11 +7,14 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="172dp"
+        android:layout_width="140dp"
+        android:layout_height="61dp"
+        android:layout_marginEnd="120dp"
         android:layout_marginLeft="164dp"
         android:text="Привет!!!"
+        android:textColor="@color/textColor"
+        android:background="@color/textFon"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
